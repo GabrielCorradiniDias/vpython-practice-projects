@@ -5,7 +5,6 @@ Each project focuses on exploring 3D visualization, animation, and physics-inspi
 
 ## Projects Included
 
-- **Cone Inside a Box** — A simple motion and collision simulation - First test with geometric primitives.
 - **UFO Simulation** — A floating and rotating saucer with glowing lights.
 - **Christmas Tree Scene** — A holiday-themed animated display with mountains and the moon and stars.
 - **ZPF Array & Vacuum Chamber (WIP)** — Concept visualization of zero-point field interactions inside a vacuum setup.
