@@ -3,7 +3,7 @@
 A collection of 3D simulations and visual experiments built using **VPython**.  
 Each project focuses on exploring 3D visualization, animation, and physics-inspired design — including energy field models, object arrays, and creative visualizations.
 
-## 🧠 Projects Included
+## Projects Included
 
 - **Cone Inside a Box** — A simple motion and collision simulation - First test with geometric primitives.
 - **UFO Simulation** — A floating and rotating saucer with glowing lights.
@@ -13,7 +13,7 @@ Each project focuses on exploring 3D visualization, animation, and physics-inspi
   <img width="920" height="719" alt="vacuum chamber improved" src="https://github.com/user-attachments/assets/a36bfad7-20f4-4d5f-a2cb-b308883c2f8c" />
 
 
-## ⚠️ Note for Running the Simulations
+## Note for Running the Simulations
 
 These VPython projects work best when executed in **VS Code**.
 
@@ -25,9 +25,9 @@ These VPython projects work best when executed in **VS Code**.
    
 3. Click Run Python File at the top-right of VS Code.
 
-💡 Running from a normal terminal (e.g., python file.py) might not display the 3D canvas correctly.
+Running from a normal terminal (e.g., python file.py) might not display the 3D canvas correctly.
 
-💾 Requirements
+## Requirements
 
 Python 3.10 or higher
 
@@ -35,7 +35,7 @@ VPython (pip install vpython)
 
 Works best on Windows 10 or later
 
-🧩 About
+## About
 
 These small projects are practice experiments for 3D visualization and scientific concept modeling using VPython.
 They are meant as creative explorations and technical learning exercises.
