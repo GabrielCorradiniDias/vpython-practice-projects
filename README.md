@@ -10,6 +10,9 @@ Each project focuses on exploring 3D visualization, animation, and physics-inspi
 - **Christmas Tree Scene** — A holiday-themed animated display with mountains and the moon and stars.
 - **ZPF Array & Vacuum Chamber (WIP)** — Concept visualization of zero-point field interactions inside a vacuum setup.
 
+  <img width="920" height="719" alt="vacuum chamber improved" src="https://github.com/user-attachments/assets/a36bfad7-20f4-4d5f-a2cb-b308883c2f8c" />
+
+
 ## ⚠️ Note for Running the Simulations
 
 These VPython projects work best when executed in **VS Code**.
